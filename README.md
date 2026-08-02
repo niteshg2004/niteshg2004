@@ -215,14 +215,6 @@ I enjoy building complete software products, not just standalone models. My focu
   <img src="https://streak-stats.demolab.com?user=NiteshGhimire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiteshGhimire&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshGhimire&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 
 
 ---
