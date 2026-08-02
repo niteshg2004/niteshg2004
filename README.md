@@ -204,17 +204,12 @@ I enjoy building complete software products, not just standalone models. My focu
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Builder-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Software%20Developer-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%93%B7%20Computer%20Vision%20Enthusiast-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%E2%98%95%20Python%20Lover-111827?style=for-the-badge" />
-</p>
+ 
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NiteshGhimire&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshGhimire&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NiteshGhimire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
