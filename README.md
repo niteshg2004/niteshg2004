@@ -235,16 +235,19 @@ I enjoy building complete software products, not just standalone models. My focu
 ---
 
 ### Connect
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/NiteshGhimire">
-    <img src="https://img.shields.io/badge/GitHub-NiteshGhimire-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/niteshg2004">
+    <img src="https://img.shields.io/badge/GitHub-niteshg2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/nitesh-ghimire/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://linkedin.com/in/nitesh-g-a527541b6">
+    <img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Ghimire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:137915276+niteshg2004@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="mailto:neeteshupadhaya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-neeteshupadhaya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
