@@ -223,9 +223,7 @@ I enjoy building complete software products, not just standalone models. My focu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshGhimire&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NiteshGhimire/NiteshGhimire/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
+
 
 ---
 
