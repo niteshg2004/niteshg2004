@@ -200,7 +200,7 @@ I enjoy building complete software products, not just standalone models. My focu
 ### Fun Facts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8C%20Astronomy%20Enthusiast-111827?style=for-the-badge" />
+ 
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Builder-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Software%20Developer-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%93%B7%20Computer%20Vision%20Enthusiast-111827?style=for-the-badge" />
